@@ -26,7 +26,7 @@ A Raspberry pi is used as a server. When prompted by the user through the web pa
 it switches the relay which is connected in series with a double throw switch to 
 turn off/on a lamp.
 
-The double throw switch allows both switching manually and through the relay.
+The double throw switch allows both switching manually and through the relay independently.
 
 The sensor allows the Raspberry pi to monitor the state of the lamp.
 
