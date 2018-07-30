@@ -3,14 +3,19 @@
 Hardware
 ------------------------
 1 Raspberry pi
+
 1 Lamp
+
 1 relay (5V logic input, handels 220V 10A)
+
 1 double throw switch
+
 1 sensor (a sensor of any kind to indicate that the lamp is turned on)
 
 Software
 ------------------------
 1 Node Server
+
 1 Web page for the mobile phone user
 
 Description
