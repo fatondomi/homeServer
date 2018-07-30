@@ -18,6 +18,8 @@ Software
 
 1 Web page for the mobile phone user
 
+1 Python script to read the gpio pins and write a text file to communicate with the Node Server 
+
 Description
 ------------------------
 A Raspberry pi is used as a server. When prompted by the user through the web page
