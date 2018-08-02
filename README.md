@@ -14,7 +14,7 @@ Hardware
 
 Software
 ------------------------
-1 Node Server
+1 Node Server Script
 
 1 Web page for the mobile phone user
 
